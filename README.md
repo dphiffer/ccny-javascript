@@ -1,7 +1,6 @@
 ### Topics in Web Programming: JavaScript
-#### The City College of New York
-#### Spring 2014, Art 39552
 
+The City College of New York, Art 39552, Spring 2014
 Instructor: Dan Phiffer ([email](mailto:dan@phiffer.org))  
 Thursdays, 6:15-9:05 pm  
 Compton-Goethals Hall 121  
