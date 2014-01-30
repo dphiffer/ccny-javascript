@@ -9,7 +9,7 @@ Compton-Goethals Hall 121
 
 #### Course Description
 
-This course will provide both an introduction to programming for the web, and guide students through more creative applications of web-based projects. JavaScript is the de facto programming language of the web, so a lot of our time will be spent looking at how to actually write code. As you start to get more familiar with JavaScript during the semester, the assignments will provide more opportunities for experimentation.
+This course will provide both an introduction to programming for the web, and guide students through the process of building creative web-based projects. JavaScript is the de facto programming language of the web, so a lot of our time will be spent looking at how to actually write code. At first we're just going to be learning the basics: how to use developer tools, how to properly indent your code, strategies for debugging. As students become more familiar with JavaScript as the semester progresses, assignments will start to provide more opportunities for experimentation.
 
 #### Objectives
 
