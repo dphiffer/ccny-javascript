@@ -1,7 +1,8 @@
 ### Topics in Web Programming: JavaScript
 
 The City College of New York, Art 39552, Spring 2014  
-Instructor: Dan Phiffer ([email](mailto:dan@phiffer.org))  
+Instructor: Dan Phiffer ([dan@phiffer.org](mailto:dan@phiffer.org))  
+Course website: [javascript.phiffer.org](http://javascript.phiffer.org/)
 Thursdays, 6:15-9:05 pm  
 Compton-Goethals Hall 121  
 
@@ -44,7 +45,7 @@ Grades are given based on: 
 
 #### Class Schedule
 
-* Week 1: Developer tools (January 30)
+* Week 1: [Developer tools](https://github.com/ccny-edm/javascript-week01) (January 30)
 * Week 2: HTML and CSS (February 6)
 * Week 3: JavaScript syntax, variables, DOM (February 13)
 * (February 20: CCNY Monday schedule)
