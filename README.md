@@ -11,7 +11,7 @@ Compton-Goethals Hall 121
 
 This course will provide both an introduction to programming for the web, and guide students through the process of building creative web-based projects. JavaScript is the de facto programming language of the web, so a lot of our time will be spent learning how to actually write code. At first we're just going to be learning the basics: how to use developer tools, how to read documentation, how to properly indent code, and strategies for debugging. As working with JavaScript becomes more familiar as the semester progresses, assignments will provide more opportunities for more creative projects.
 
-I'm assuming that students are coming into the class already familiar with writing HTML and CSS, but haven't written code in a procedural language like JavaScript. 
+I'm assuming that students are coming into the class already familiar with writing HTML and CSS, but haven't written code in a procedural language like JavaScript.
 
 #### Objectives
 
