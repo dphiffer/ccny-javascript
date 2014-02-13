@@ -46,7 +46,7 @@ Grades are given based on: 
 #### Class Schedule
 
 * Week 1: [Developer tools](https://github.com/ccny-edm/javascript-week01) (January 30)
-* Week 2: HTML and CSS (February 6)
+* Week 2: [HTML and CSS](https://github.com/ccny-edm/javascript-week02) (February 6)
 * Week 3: JavaScript syntax, variables, DOM (February 13)
 * (February 20: CCNY Monday schedule)
 * Week 4: Arrays, conditionals, loops (February 20, meet at New Yorker building)
