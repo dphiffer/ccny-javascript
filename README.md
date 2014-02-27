@@ -47,12 +47,11 @@ Grades are given based on: 
 
 * Week 1: [Developer tools](https://github.com/ccny-edm/javascript-week01) (January 30)
 * Week 2: [HTML and CSS](https://github.com/ccny-edm/javascript-week02) (February 6)
-* Week 3: JavaScript syntax, variables, DOM (February 13)
-* (February 20: CCNY Monday schedule)
-* Week 4: Arrays, conditionals, loops (February 20, meet at New Yorker building)
-* Week 5: Functions, events, jQuery (February 27)
-* Week 6: Objects and images (March 6)
-* (March 13: Dan at SXSW maybe?)
+* Feb 13 snow day
+* Week 3: [JavaScript syntax, variables, DOM](https://github.com/ccny-edm/javascript-week02) (February 20, meet at New Yorker building)
+* Week 4: Arrays, conditionals, loops (February 27)
+* Week 5: Functions, events, jQuery (March 6)
+* Week 6: Objects and images (March 13)
 * Week 7: Lab day (March 20)
 * Week 8: Midterm presentations (March 27)
 * Week 9: Online mapping (April 3)
